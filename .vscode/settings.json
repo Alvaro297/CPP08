@@ -92,6 +92,7 @@
 		"numbers": "cpp",
 		"ranges": "cpp",
 		"span": "cpp",
-		"list": "cpp"
+		"list": "cpp",
+		"stack": "cpp"
 	}
 }
